@@ -4,7 +4,7 @@ This is a CLI tool for converting units, e.g., kilometers to meters.
 
 ## Units availability
 
-Currently the following unis are available for convertion:
+Currently the following unis are available for conversion:
 
 ### Distance
 
